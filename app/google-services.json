@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "574928139869",
+    "firebase_url": "https://crudfirebase-cfc21-default-rtdb.firebaseio.com",
+    "project_id": "crudfirebase-cfc21",
+    "storage_bucket": "crudfirebase-cfc21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574928139869:android:6eb43d44255eda56fcbfb4",
+        "android_client_info": {
+          "package_name": "com.example.crudfirenase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZfBvqNUXI5Z0p7fNZJRdYClG--iQqLK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
